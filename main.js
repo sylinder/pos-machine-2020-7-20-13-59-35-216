@@ -102,7 +102,7 @@ function calculateSubTotal(items) {
 
 
 function formatItemsToString(items) {
-    var result = "***<store earning no money>Receipt ***\n";
+    var result = "\n***<store earning no money>Receipt ***\n";
     var totalPrice = 0;
     for (var i = 0; i < items.length; i++) {
         totalPrice += items[i].subTotal;
