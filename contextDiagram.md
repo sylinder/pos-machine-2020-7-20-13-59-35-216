@@ -2,4 +2,4 @@
 
 code at main.js
 
-context diagram at PosMachine.drawio
+context diagram at PosMachine.drawio or posMachine.png
